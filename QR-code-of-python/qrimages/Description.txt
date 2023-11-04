@@ -1,0 +1,1 @@
+This is a program for me to create and display barcodes using a library( qrcode and decode)
